@@ -1,0 +1,48 @@
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.exe
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.deps.json
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.json
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.dev.json
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\refint\TiposDeDados.dll
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\dario\source\repos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\ref\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.exe
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.deps.json
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.json
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.dev.json
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.AssemblyReference.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\refint\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\TiposDeDados\TiposDeDados\obj\Debug\net5.0\ref\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.exe
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.deps.json
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.json
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.dev.json
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.AssemblyReference.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\refint\TiposDeDados.dll
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.pdb
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\dario\Desktop\Bootcamp - .Net\Codigos\TiposDeDados\TiposDeDados\obj\Debug\net5.0\ref\TiposDeDados.dll
